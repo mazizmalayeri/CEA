@@ -1,0 +1,10 @@
+pandas
+scipy
+scikit-learn
+torch
+torchvision
+faiss-cpu
+Cython
+libmr
+tqdm
+git+https://github.com/Jingkang50/OpenOOD
